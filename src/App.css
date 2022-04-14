@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.btn {
+  font-size: 18px;
+  width: 240px;
+  padding: 8px;
+  margin: 2px;
+  cursor: pointer;
+
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
